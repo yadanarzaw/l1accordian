@@ -1,0 +1,1 @@
+var getmodal = document.getElementById('')
